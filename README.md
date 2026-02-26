@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Liandra Gonçalves do Nascimento, tenho 24 anos e sou de Bauru, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Mackenzie.
+Me chamo Liandra Gonçalves do Nascimento, tenho 25 anos e sou de Bauru, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Mackenzie.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
